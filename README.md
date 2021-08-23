@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+Check out a live demo of this app [here](https://livedemo.com)
 
 
 ## Getting Started
