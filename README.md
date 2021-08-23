@@ -16,8 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-Check out a live demo of this app [here](https://livedemo.com)
-
+Check out a live demo of this app [here](https://brenoxav.github.io/webpack-boilerplate).
 
 ## Getting Started
 
@@ -72,7 +71,7 @@ You can either build a local production version of the project or open it direct
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/brenoxav/webpack-boilerplate/issues).
 
 ## Show your support
 
